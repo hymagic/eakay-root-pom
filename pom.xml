@@ -29,7 +29,7 @@
         </developer>
     </developers>
 
-    <!-- 子pom 统一属性值 -->
+    <!-- 统一属性值 -->
     <properties>
         <!-- commons -->
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
